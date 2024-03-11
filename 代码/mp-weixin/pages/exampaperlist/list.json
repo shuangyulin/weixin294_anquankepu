@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#A3A9E4",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "在线答题列表",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
